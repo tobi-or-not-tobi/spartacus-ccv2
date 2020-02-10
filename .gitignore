@@ -1,0 +1,31 @@
+
+# dependencies
+node_modules/
+package-lock.json
+
+# Logs
+npm-debug.log
+yarn-error.log
+testem.log
+
+
+# IDEs and editors
+/.idea
+*.iml
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/settings.json
+
+# Coverage reports
+**/coverage
+
+
+# System Files
+.DS_Store
+Thumbs.db

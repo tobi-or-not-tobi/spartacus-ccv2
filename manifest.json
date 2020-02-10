@@ -1,0 +1,8 @@
+{
+  "applications": [
+    {
+      "name": "spartacus",
+      "path": "spartacus"
+    }
+  ]
+}
